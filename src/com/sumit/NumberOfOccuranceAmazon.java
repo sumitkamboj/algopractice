@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-public class NumberOfOccurance {
+public class NumberOfOccuranceAmazon {
 
 	public void countNumberOfOccurance(List<Integer> list) {
 		HashMap<Integer, Integer> hm = new HashMap();

@@ -12,6 +12,8 @@ public class Anagram {
 		String s1 = "aarmy";
 		String s2 ="maary";
 		System.out.println(isAnagramStrings(s1, s2) ? "Yes" : "No");
+	//	int a = 123451234512345;
+		//System.out.println(a);
 
 	}
 	static boolean isAnagramStrings(String s1, String s2) {
